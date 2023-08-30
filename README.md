@@ -12,6 +12,7 @@ The Workday Scheduler is a simple calendar application that allows users to save
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributors](#contributors)
+- [Sources](#sources)
 - [Contact](#contact)
 
 ## Technologies Used
@@ -45,6 +46,10 @@ Events are saved in local storage and will persist even after refreshing the pag
 ## Contributors
 
 - Cristian Reyes
+
+## Sources
+
+
 
 
 ## Contact
