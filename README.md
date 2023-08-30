@@ -50,5 +50,5 @@ Events are saved in local storage and will persist even after refreshing the pag
 ## Contact
 For any questions or collaborations, please reach out to:
 
-- Cristian Reyes: [Cristianreyes6777@gmail.com]
+- Cristian Reyes: Cristianreyes6777@gmail.com
 
