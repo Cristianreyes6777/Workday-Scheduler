@@ -26,6 +26,7 @@ Bootstrap
 
 ## Screenshots
 
+![image](https://github.com/Cristianreyes6777/Workday-Scheduler/assets/135755569/96b81121-0dbd-4669-81ae-b3841b3c986b)
 
 
 ## Getting Started
@@ -48,6 +49,10 @@ Events are saved in local storage and will persist even after refreshing the pag
 - Cristian Reyes
 
 ## Sources
+
+[https://www.youtube.com/watch?v=fYTTUBa-lPc&t=20s]
+
+[https://www.youtube.com/watch?v=GihQAC1I39Q&t=74s]
 
 
 
