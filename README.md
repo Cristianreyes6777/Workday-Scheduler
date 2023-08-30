@@ -16,8 +16,8 @@ The Workday Scheduler is a simple calendar application that allows users to save
 - [Contact](#contact)
 
 ## Technologies Used
-HTML5
-CSS3
+HTML
+CSS
 JavaScript
 jQuery
 Day.js
@@ -35,7 +35,7 @@ Clone the repository to your local machine.
 Open the index.html file in your preferred browser.
 Start scheduling your workday by adding events to the time blocks.
 
-Or visit: 
+Or visit: https://cristianreyes6777.github.io/Workday-Scheduler/
 
 ## Usage
 The current day is displayed at the top of the calendar.
@@ -50,9 +50,9 @@ Events are saved in local storage and will persist even after refreshing the pag
 
 ## Sources
 
-[https://www.youtube.com/watch?v=fYTTUBa-lPc&t=20s]
+https://www.youtube.com/watch?v=fYTTUBa-lPc&t=20s
 
-[https://www.youtube.com/watch?v=GihQAC1I39Q&t=74s]
+https://www.youtube.com/watch?v=GihQAC1I39Q&t=74s
 
 
 
